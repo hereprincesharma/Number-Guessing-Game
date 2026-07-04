@@ -49,44 +49,44 @@ number-guessing-game/
 ├── README.md
 │
 └── screenshots/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    ├── screenshot3.png
-    ├── screenshot4.png
-    ├── screenshot5.png
-    ├── screenshot6.png
-    └── screenshot7.png
+    ├── screenshot-1.png
+    ├── screenshot-2png.png
+    ├── screenshot-3.png
+    ├── screenshot-4.png
+    ├── screenshot-5.png
+    ├── screenshot-6.png
+    └── screenshot-7.png
 ```
 
 ## Screenshots
 
 ### Game Preview 1
 
-![Game Screenshot 1](screenshots/screenshot1.png)
+![Game Screenshot 1](screenshots/screenshot-1.png)
 
 ### Game Preview 2
 
-![Game Screenshot 2](screenshots/screenshot2png.png)
+![Game Screenshot 2](screenshots/screenshot-2png.png)
 
 ### Game Preview 3
 
-![Game Screenshot 3](screenshots/screenshot3.png)
+![Game Screenshot 3](screenshots/screenshot-3.png)
 
 ### Game Preview 4
 
-![Game Screenshot 4](screenshots/screenshot4.png)
+![Game Screenshot 4](screenshots/screenshot-4.png)
 
 ### Game Preview 5
 
-![Game Screenshot 5](screenshots/screenshot5.png)
+![Game Screenshot 5](screenshots/screenshot-5.png)
 
 ### Game Preview 6
 
-![Game Screenshot 6](screenshots/screenshot6.png)
+![Game Screenshot 6](screenshots/screenshot-6.png)
 
 ### Game Preview 7
 
-![Game Screenshot 7](screenshots/screenshot7.png)
+![Game Screenshot 7](screenshots/screenshot-7.png)
 
 ## Future Improvements
 
